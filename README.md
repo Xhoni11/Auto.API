@@ -32,11 +32,6 @@ Auto.API/
 | PUT    | `/cars/{id}` | Përditëson një makinë |
 | DELETE | `/cars/{id}` | Fshin një makinë |
 
-## Si ta ekzekutosh
-
-```bash
-cd Auto.API
-dotnet run
 ```
 
 API-ja do të jetë aktive në: **http://localhost:5280**
