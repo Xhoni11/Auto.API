@@ -32,11 +32,6 @@ Auto.API/
 | PUT    | `/cars/{id}` | Përditëson një makinë |
 | DELETE | `/cars/{id}` | Fshin një makinë |
 
-```
-
-API-ja do të jetë aktive në: **http://localhost:5280**
-
-Swagger UI: **http://localhost:5280/swagger**
 
 ## Frontend
 
